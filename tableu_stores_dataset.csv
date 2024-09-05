@@ -1,0 +1,101 @@
+Store ID,Country,City,Store Name,Address,Monthly Sales,Number of Employees,Opening Date
+1,USA,Chicago,Jones Group Chicago,"5676 Michael Port Suite 128, South Holly, WV 68721",68560.33,37,2020-05-25
+2,USA,Phoenix,Moss and Sons Phoenix,"14727 Ashley Stream Suite 079, West Stephenfurt, NH 61819",38033.03,31,2019-01-11
+3,USA,Los Angeles,Cameron PLC Los Angeles,"004 Kara Meadow, Tamaraborough, MH 12211",93110.37,27,2022-08-16
+4,USA,Houston,Hancock Inc Houston,"8966 Kristina Run Suite 103, Lake Hollyside, VA 89042",49989.72,19,2020-05-31
+5,USA,Chicago,Lee PLC Chicago,"95298 Wilson Manors, Jamesville, ID 40631",35920.43,25,2019-07-16
+6,USA,Phoenix,"Morales, Rich and Santiago Phoenix","0851 Mccann Mall, Port Melissa, AZ 70277",94157.88,31,2024-02-12
+7,USA,Chicago,Roberts-Perez Chicago,"8253 Ramos Isle Suite 091, Audreyton, PW 99486",86502.84,30,2022-12-26
+8,USA,New York,"Walsh, Harris and Rogers New York","9572 David Vista Suite 168, Atkinsonfort, NM 17638",26169.68,34,2019-11-20
+9,USA,Phoenix,Meyers Group Phoenix,"8847 Diaz Street, Lawrenceshire, KS 83199",35455.44,21,2021-06-05
+10,USA,Phoenix,Bentley PLC Phoenix,"201 Clarke Village, Thomasfort, NC 91058",77211.25,30,2015-11-14
+11,Canada,Montreal,Clayton Ltd Montreal,"1200 Baker Hills Apt. 460, Port Denise, CO 70057",92169.27,34,2017-02-06
+12,Canada,Montreal,Holt-Byrd Montreal,"584 Hampton Mission, Brendanbury, PA 12820",63396.64,8,2019-05-25
+13,Canada,Ottawa,"Perez, Vasquez and Lee Ottawa","10850 Christopher Prairie Suite 745, Hestershire, CA 81454",67080.72,49,2023-07-03
+14,Canada,Toronto,Rose-Wilson Toronto,"89520 Webster Plaza, Donaldburgh, ND 63490",62030.49,32,2024-03-20
+15,Canada,Montreal,Roman Ltd Montreal,"8533 Evelyn Villages Suite 887, Ellisburgh, MO 98713",66315.26,8,2021-12-18
+16,Canada,Calgary,"Howard, Sanchez and Davis Calgary","454 Griffin Mill Apt. 875, Priscillachester, OK 35731",91895.97,16,2021-10-15
+17,Canada,Toronto,"Shaffer, Bautista and Sosa Toronto","506 Orr Canyon Apt. 824, Blaketon, VT 17199",56222.13,9,2019-03-27
+18,Canada,Ottawa,"Parrish, Christian and Pope Ottawa","32228 James Villages Apt. 892, Hendrixberg, GA 23372",47835.25,29,2015-08-11
+19,Canada,Vancouver,"Wolf, Stevens and Perry Vancouver","88716 Marcus Center Apt. 984, South Bradleyshire, ND 52905",99913.72,37,2016-01-16
+20,Canada,Montreal,"Woodard, Bruce and Williams Montreal","92804 Clements Stravenue, North Robert, OR 85517",44260.38,24,2022-02-21
+21,UK,London,"Walker, Jordan and Bond London","195 Anthony Spur, Marthaberg, GA 66910",52194.49,14,2022-04-21
+22,UK,London,Ingram Ltd London,"83631 Jason Points, East Jason, PW 54233",92974.68,20,2015-09-20
+23,UK,London,Thomas PLC London,"925 Daniel Forges, South Ashleyside, PA 08575",84344.42,5,2017-02-05
+24,UK,Birmingham,Crosby Ltd Birmingham,"00082 Robert Motorway Apt. 192, Lake Joshua, TN 20216",20976.32,42,2021-07-08
+25,UK,Leeds,Anderson-Roberts Leeds,"5262 Ford Squares, Lake Emily, OH 95107",32150.92,27,2022-12-03
+26,UK,Birmingham,Snyder and Sons Birmingham,"9677 Caitlyn Mission, Lake Richard, WY 18642",56678.72,47,2018-05-06
+27,UK,Manchester,Delgado Inc Manchester,"01597 Lozano Run, Danielmouth, MA 12998",54582.36,7,2015-10-04
+28,UK,Leeds,Miller-Kim Leeds,"6535 Myers Prairie Apt. 916, Martinland, MH 57920",81817.16,23,2017-09-18
+29,UK,Leeds,"Williams, Beasley and Romero Leeds","600 Vincent Villages Suite 236, West Courtneyborough, MO 09868",59896.57,13,2018-03-16
+30,UK,Manchester,"Miller, Salinas and Page Manchester","96005 Rodriguez Rest, New Karafort, IL 75439",61751.72,17,2022-03-25
+31,Germany,Cologne,"Bradley, Ruiz and Mann Cologne","132 Moore Rest, Jonathantown, KS 90590",79386.14,17,2017-06-28
+32,Germany,Hamburg,Hale Inc Hamburg,"139 Nicole Brooks, Karafort, LA 11994",44580.17,46,2015-11-12
+33,Germany,Hamburg,Owens-Hudson Hamburg,"663 Mcdaniel Turnpike Apt. 871, New Meghanfurt, CA 17726",34595.91,17,2017-06-13
+34,Germany,Frankfurt,Hughes-Brown Frankfurt,"062 Travis Loaf Suite 984, Carolynberg, OR 54836",66702.87,11,2022-07-21
+35,Germany,Frankfurt,Martinez Ltd Frankfurt,"24193 Joseph Fork Suite 905, Lopezside, HI 77513",44398.09,32,2018-06-13
+36,Germany,Hamburg,Gordon Group Hamburg,"0362 Hood Pike Suite 962, East Aaronborough, WA 67547",37257.58,44,2016-09-04
+37,Germany,Cologne,Gonzales-Olson Cologne,"90543 Peters Squares Suite 041, West Joshuaberg, TN 53773",89034.56,23,2015-04-16
+38,Germany,Frankfurt,"Flores, Fox and Scott Frankfurt","USCGC Sanders, FPO AP 95040",49476.43,7,2022-10-28
+39,Germany,Hamburg,Pearson-Holland Hamburg,"9033 Davis Groves Suite 350, New Hollyborough, OK 97074",46078.89,30,2014-06-06
+40,Germany,Berlin,"Boyd, Shaw and Rivera Berlin","31315 Simpson View Apt. 759, Stephenschester, PW 99673",76420.8,17,2021-09-07
+41,France,Lyon,Rodriguez-Smith Lyon,"1130 Ryan Port Apt. 753, New Jamiestad, SC 39865",86509.85,40,2021-07-03
+42,France,Nice,Hill Group Nice,"8475 Brian Club, South Jose, CA 42818",89487.98,18,2020-07-31
+43,France,Toulouse,Jones-Patton Toulouse,"5395 Kelly Tunnel, Alvaradostad, MN 21672",34927.74,6,2016-04-07
+44,France,Nice,Tucker-Williams Nice,"Unit 4766 Box 6889, DPO AP 82195",34241.1,10,2018-04-04
+45,France,Paris,Obrien-Forbes Paris,"2208 Kimberly Points, Port Elizabethborough, HI 57230",90996.12,39,2022-05-06
+46,France,Marseille,Flores-Cunningham Marseille,"0938 Desiree Knolls Apt. 026, Marktown, NV 03172",26227.45,14,2017-04-26
+47,France,Lyon,Cole Ltd Lyon,"1277 Antonio Course, West Andrea, DE 71779",68501.86,17,2019-02-15
+48,France,Paris,Hubbard Ltd Paris,"957 Williams Mountains, New Amanda, OR 00894",65949.39,5,2016-09-08
+49,France,Lyon,"Middleton, Allen and Brown Lyon","0726 Koch Circle Suite 803, South Derekport, NE 87629",55380.72,16,2021-01-18
+50,France,Nice,Nunez-Brown Nice,"05926 April Way Apt. 614, West Williamton, CA 67088",76914.07,39,2024-02-22
+51,Italy,Naples,"Brown, Roberts and Ray Naples","USNS Lewis, FPO AP 19623",31295.89,45,2015-10-30
+52,Italy,Naples,Johnson-Smith Naples,"246 Joseph Mountains Apt. 386, Ashleyview, WI 84682",25880.89,44,2022-05-29
+53,Italy,Milan,Nguyen Group Milan,"336 Stanley Spurs Suite 593, East Wendyville, PA 31706",70757.4,49,2017-05-12
+54,Italy,Naples,Jackson Group Naples,"5281 Webb Prairie Apt. 465, Kevinview, DC 39898",47481.56,7,2019-06-28
+55,Italy,Palermo,Wilson-Rubio Palermo,"687 Anderson Lodge, South Coreymouth, WA 97891",22788.66,28,2024-01-09
+56,Italy,Rome,Brown-Long Rome,"13176 Alexander Court Apt. 236, Adkinsmouth, ME 92043",72695.04,40,2021-11-14
+57,Italy,Naples,"Simmons, Ochoa and Fleming Naples","303 Kevin Loop Suite 419, North Davidton, VT 70708",84890.15,42,2014-12-04
+58,Italy,Turin,"Hunt, English and Peters Turin","Unit 5879 Box 5347, DPO AE 85829",64562.7,45,2019-11-25
+59,Italy,Milan,"Flores, Townsend and Ramirez Milan","223 Kristina Squares, Lake Tina, KY 02250",57353.14,42,2021-10-03
+60,Italy,Palermo,"Terrell, Hernandez and Ellis Palermo","63247 Amanda Harbors, Martinezmouth, TX 83535",47033.8,7,2022-01-25
+61,Spain,Madrid,Waters PLC Madrid,"97988 Fox Street Apt. 803, Scottchester, MD 77912",24042.24,15,2022-01-28
+62,Spain,Valencia,Yu PLC Valencia,"5979 Boyd Plaza Suite 779, Lake Jefferyside, IA 24473",36686.66,21,2015-02-14
+63,Spain,Valencia,Black-Lopez Valencia,"47687 Oconnell Orchard, Myersside, VI 40058",22574.98,32,2024-03-02
+64,Spain,Barcelona,"Johnson, Brown and Summers Barcelona","35302 Christopher Curve Suite 955, Mendezborough, NY 39932",73546.71,32,2021-02-06
+65,Spain,Valencia,Johnson-George Valencia,"062 Kendra Lodge Apt. 352, North Jamesville, OR 41492",20919.33,44,2016-02-25
+66,Spain,Madrid,White-Ramirez Madrid,"146 Mccoy Harbors Suite 018, East David, ND 76446",37586.61,19,2022-06-17
+67,Spain,Madrid,Thompson Group Madrid,"Unit 8925 Box 5583, DPO AA 10944",32241.01,10,2021-06-12
+68,Spain,Zaragoza,Carey-Armstrong Zaragoza,"38265 Amanda Unions Apt. 788, East Michelle, FL 31666",53241.86,22,2022-09-18
+69,Spain,Barcelona,Garcia LLC Barcelona,"46329 Stephen Lane, East Michael, UT 91871",83327.81,29,2016-04-24
+70,Spain,Zaragoza,Ryan-Bush Zaragoza,"536 Richard Junctions Suite 312, Eriktown, PW 93894",33710.64,38,2023-03-29
+71,Australia,Perth,Allison-Gallagher Perth,"932 Matthew Landing Apt. 319, Kimchester, OH 28231",22475.42,11,2023-07-16
+72,Australia,Adelaide,"Lewis, Gill and Ellis Adelaide","789 Hale Plaza Apt. 766, Lake Evelynview, NH 75459",20097.74,37,2021-11-14
+73,Australia,Melbourne,Adams-Yang Melbourne,"49287 Frost Lake Apt. 551, New Amberbury, PA 53204",96801.35,34,2019-12-16
+74,Australia,Melbourne,Clayton PLC Melbourne,"Unit 6133 Box 2506, DPO AP 97821",28720.24,27,2023-06-17
+75,Australia,Adelaide,"Mclaughlin, Reed and Harrison Adelaide","2449 Flowers Extensions, South Jeffreyshire, TN 70258",78792.29,27,2019-02-15
+76,Australia,Melbourne,"Vance, Scott and Wilson Melbourne","8571 Castaneda Underpass, West Jenniferberg, VI 17110",59263.76,44,2014-11-26
+77,Australia,Melbourne,Porter-Jackson Melbourne,"5468 Jordan Wall Suite 143, Bryanbury, NV 64783",21681.59,36,2019-02-03
+78,Australia,Brisbane,Bishop and Sons Brisbane,"USNS Robinson, FPO AP 48674",23155.93,43,2016-11-03
+79,Australia,Melbourne,Wilson LLC Melbourne,"2856 Woods Track, Port Theresa, AZ 21305",41433.71,30,2022-08-20
+80,Australia,Melbourne,"Stuart, Morse and Scott Melbourne","0462 Stephen Meadow Apt. 906, Port Sherry, MT 59328",22857.78,24,2022-08-22
+81,Japan,Nagoya,Schroeder Ltd Nagoya,"393 Myers Knolls, Nancyberg, ME 67621",94591.06,33,2016-10-26
+82,Japan,Osaka,Bell-Sherman Osaka,"PSC 0689, Box 5837, APO AE 41745",72159.4,34,2022-09-02
+83,Japan,Fukuoka,Bryan PLC Fukuoka,"PSC 5590, Box 0333, APO AP 57979",91805.47,29,2024-01-14
+84,Japan,Fukuoka,Davidson Group Fukuoka,"050 Miller Highway, Port Lisa, IL 74503",62775.73,6,2020-12-13
+85,Japan,Osaka,Lopez-Mendoza Osaka,"85853 Perez Islands Apt. 265, Stevenfort, FL 12485",82022.15,45,2018-02-04
+86,Japan,Tokyo,Evans-Lamb Tokyo,"41798 Donald Trail Suite 513, South Nicolehaven, KY 74479",39946.29,47,2022-05-19
+87,Japan,Tokyo,Robinson-Gonzalez Tokyo,"78647 Glenn Streets Suite 092, Port Cody, MT 18842",89074.33,22,2015-01-28
+88,Japan,Tokyo,"Evans, Murray and Martinez Tokyo","7091 Gomez Road, New Christian, AS 94881",50621.73,23,2015-09-17
+89,Japan,Fukuoka,Brown Group Fukuoka,"50959 Gentry Terrace Suite 726, Colemanshire, VA 47980",51868.11,48,2021-05-10
+90,Japan,Nagoya,Figueroa-Schwartz Nagoya,"25615 Miller Lodge, Newmanport, SC 57076",68231.59,47,2022-03-18
+91,Brazil,Salvador,Owens Inc Salvador,"873 Kylie Groves Apt. 971, East Heatherfurt, TX 62491",31546.54,39,2022-02-20
+92,Brazil,Salvador,"Duncan, Nguyen and Warren Salvador","249 Laura Courts, Anthonyview, TN 71063",47234.9,28,2018-07-21
+93,Brazil,Fortaleza,Bailey Ltd Fortaleza,"116 Jonathan Club Suite 639, Jonesshire, DE 08373",82580.1,14,2019-12-19
+94,Brazil,Brasília,"Holmes, Nichols and Choi Brasília","0150 Barnes Camp Suite 090, New Kennethside, AK 14622",92792.8,36,2023-09-05
+95,Brazil,Fortaleza,Washington-Smith Fortaleza,"547 Glenn Hills, East Johnland, AL 21266",87679.45,40,2017-07-27
+96,Brazil,São Paulo,Evans-Soto São Paulo,"2770 Douglas Turnpike, West Kennethview, ME 22481",34745.98,11,2017-02-05
+97,Brazil,Brasília,Steele-Ortiz Brasília,"3627 Chaney Shoal Apt. 182, New Nancyville, ND 54391",92584.04,22,2017-01-18
+98,Brazil,Brasília,Anderson-Faulkner Brasília,"5642 Daniel Cliffs Suite 474, Millerfurt, MA 63554",54677.15,5,2015-06-16
+99,Brazil,Brasília,Rose-Holland Brasília,"217 Kathleen Summit, West Donna, MA 95123",49913.45,44,2023-09-27
+100,Brazil,Rio de Janeiro,Brown LLC Rio de Janeiro,"1703 Erica Trail, Rojasburgh, ME 54887",51161.64,46,2021-10-29
